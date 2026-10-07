@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.0",
+  "prompt": "Day turns into night over the harbour skyline, clouds race past, the windows light up one by one",
+  "duration": 6,
+  "resolution": "4k",
+  "aspect_ratio": "16:9",
+  "start_image": {"url": "https://example.com/harbour-day.jpg"},
+  "end_image": {"url": "https://example.com/harbour-night.jpg"}
+}

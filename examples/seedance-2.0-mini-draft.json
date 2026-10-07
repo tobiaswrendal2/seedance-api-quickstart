@@ -1,0 +1,8 @@
+{
+  "model": "seedance-2.0-mini",
+  "prompt": "The logo floats in space, a lightning bolt strikes it, sparks burst, slow push-in",
+  "duration": 5,
+  "resolution": "480p",
+  "aspect_ratio": "adaptive",
+  "start_image": {"url": "https://example.com/logo.png"}
+}

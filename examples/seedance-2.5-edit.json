@@ -1,0 +1,7 @@
+{
+  "model": "seedance-2.5",
+  "omni_reference_task_type": "edit",
+  "prompt": "Turn the summer park into a snowy winter afternoon, keep the people and the camera move",
+  "resolution": "1080p",
+  "reference_videos": [{"url": "https://example.com/park-8s.mp4"}]
+}

@@ -1,0 +1,8 @@
+{
+  "model": "seedance-2.5",
+  "prompt": "A street drummer plays on upturned buckets at night, every hit lands on the beat of @Audio 1, handheld close-ups",
+  "duration": 20,
+  "resolution": "720p",
+  "aspect_ratio": "16:9",
+  "reference_audios": [{"url": "https://example.com/bucket-beat.wav"}]
+}
